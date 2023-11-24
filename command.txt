@@ -1,0 +1,1 @@
+g++ -IG:\Boost\boost_1_81_0 -o server main.cpp Parser.cpp Tree.cpp -lws2_32
